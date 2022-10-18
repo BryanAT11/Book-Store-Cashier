@@ -27,7 +27,7 @@ int main(){
 	int choice;
 	do{
 		system("cls");
-		puts("Course- Net Book Store");
+		puts("Bryan's Book Store");
 		puts("----------------------");
 		printListBooks();	
 		
